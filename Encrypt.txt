@@ -1,0 +1,25 @@
+1. Introduction
+
+This is a gentle introduction to a powerful tool for doing science. 
+The main advantage of the Python programming platform is its almost intuitive syntax (indeed some lines of code are almost syntactically correct English!) and availability of a large number of libraries. 
+The best scientific groups around the word provide a Python interface for the code they write.
+ But more importantly, Python allows any scientist to unlock the power of the computer is a painless manner.
+ With Python, anybody can be a programmer, anybody can make animated, interactive graphics and anybody can write code to interface with Excel.
+
+2. The Programming Platform
+
+
+A Python program can be written in any text editor (e.g. Notepad) as long as the file is saved with the .py extension. However, it is preferable to write the program in an Integrated Development Environment (IDE) with is a text editor designed specifically for writing programs: so that it will save you a lot of trouble. The IDE of choice in our case is Spyder.
+1. Introduction
+
+This is a gentle introduction to a powerful tool for doing science. The main advantage of the Python programming platform is its almost intuitive syntax (indeed some lines of code are almost syntactically correct English!) and availability of a large number of libraries. The best scientific groups around the word provide a Python interface for the code they write. But more importantly, Python allows any scientist to unlock the power of the computer is a painless manner. With Python, anybody can be a programmer, anybody can make animated, interactive graphics and anybody can write code to interface with Excel.
+
+2. The Programming Platform
+
+A Python program can be written in any text editor (e.g. Notepad) as long as the file is saved with the .py extension. However, it is preferable to write the program in an Integrated Development Environment (IDE) with is a text editor designed specifically for writing programs: so that it will save you a lot of trouble. The IDE of choice in our case is Spyder.
+
+2.1 Installation
+
+To run the program, you need to have the Python interpreter installed on your computer.
+
+To get the Python interpreter, the IDE and a host of other libraries (pre-written programs for your convenience), we can download the installer from the internet (http://python-xy.github.io/). The installer is called “Python(x,y)-2.7.3.1.exe”. It is already there on your machine. The icon for the version 2.7.3.1 looks like Figure 1. It is a 500 MB file. You can copy it to your pendrive and take it home to install on your own computers if you like. It runs in Windows.
